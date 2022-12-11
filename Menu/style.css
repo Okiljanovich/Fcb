@@ -1,0 +1,97 @@
+body{
+    margin: 8px;
+    display: flex;
+    justify-content: center;
+}
+.section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.menu{
+    width: 500px;
+    margin-bottom: 25px;
+}
+h4{
+    text-align: center;
+    color: #F6A341;
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 8px;
+}
+h2{
+    text-align: center;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 15px;
+}
+.header{
+    margin: 0;
+    text-align: center;
+    color: rgb(144, 144, 144);
+    margin-bottom: 10px;
+}
+.foods{
+    width: 800px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.gril{
+    width: 250px;
+    margin: 0;
+    border: 1px solid rgba(175, 175, 175, 0.668);
+    box-sizing: border-box;
+    border-radius: 61px 8px 10px 10px;
+}
+.row1{
+    margin-bottom: 15px;
+}
+.chicken{
+    width: 100%;
+    height: 200px;
+    border-radius: 60px 6px 60px 0;
+}
+p{
+    margin: 0;
+    font-size: 12px;
+}
+.footer{
+    margin: 0;
+    padding: 0 16px;
+}
+.vegia{
+    display: flex;
+    font-size: 16px;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.comment{
+    margin: 0;
+    margin-top: 8px;
+    color: rgb(144, 144, 144);
+}
+.knopka{
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    
+}
+.plus {
+    width: 20px;
+    height: 20px;
+    border-radius: 3px;
+    margin: 10px 0;
+}
+.stars{
+    width: 70px;
+    height: 20px;
+   margin-top: 5px;
+}
+.learn{
+    margin: 0;
+   margin-top: 8px;
+}
